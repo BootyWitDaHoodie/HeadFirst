@@ -1,0 +1,11 @@
+C:\Users\caspar.hof\Documents\HeadFirstDesignPatterns\Duck\TheDuckDuck\bin\Debug\netcoreapp2.2\TheDuckDuck.deps.json
+C:\Users\caspar.hof\Documents\HeadFirstDesignPatterns\Duck\TheDuckDuck\bin\Debug\netcoreapp2.2\TheDuckDuck.runtimeconfig.json
+C:\Users\caspar.hof\Documents\HeadFirstDesignPatterns\Duck\TheDuckDuck\bin\Debug\netcoreapp2.2\TheDuckDuck.runtimeconfig.dev.json
+C:\Users\caspar.hof\Documents\HeadFirstDesignPatterns\Duck\TheDuckDuck\bin\Debug\netcoreapp2.2\TheDuckDuck.dll
+C:\Users\caspar.hof\Documents\HeadFirstDesignPatterns\Duck\TheDuckDuck\bin\Debug\netcoreapp2.2\TheDuckDuck.pdb
+C:\Users\caspar.hof\Documents\HeadFirstDesignPatterns\Duck\TheDuckDuck\obj\Debug\netcoreapp2.2\TheDuckDuck.csprojAssemblyReference.cache
+C:\Users\caspar.hof\Documents\HeadFirstDesignPatterns\Duck\TheDuckDuck\obj\Debug\netcoreapp2.2\TheDuckDuck.csproj.CoreCompileInputs.cache
+C:\Users\caspar.hof\Documents\HeadFirstDesignPatterns\Duck\TheDuckDuck\obj\Debug\netcoreapp2.2\TheDuckDuck.AssemblyInfoInputs.cache
+C:\Users\caspar.hof\Documents\HeadFirstDesignPatterns\Duck\TheDuckDuck\obj\Debug\netcoreapp2.2\TheDuckDuck.AssemblyInfo.cs
+C:\Users\caspar.hof\Documents\HeadFirstDesignPatterns\Duck\TheDuckDuck\obj\Debug\netcoreapp2.2\TheDuckDuck.dll
+C:\Users\caspar.hof\Documents\HeadFirstDesignPatterns\Duck\TheDuckDuck\obj\Debug\netcoreapp2.2\TheDuckDuck.pdb
